@@ -1,5 +1,7 @@
 ### 2009
 
+_Recorded @ Connservatorio Santa Cecilia. Rome._
+
 Recording Sessions:
 1. Session ONE:
   - AB
@@ -12,6 +14,8 @@ Recording Sessions:
   - Mid-Side
 
 ### 2014
+
+_Recorded @ Connservatorio Santa Cecilia. Rome._
 
 Recording Sessions:
 
