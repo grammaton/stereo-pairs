@@ -13,6 +13,9 @@ Recording Sessions:
   - ORTF
   - Mid-Side
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k8-sse-1QCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 2014
 
 _Recorded @ Connservatorio Santa Cecilia. Rome._
@@ -27,7 +30,3 @@ Recording Sessions:
 - OSS
 - Tetrahedral
 - XY90
-
-----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k8-sse-1QCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
