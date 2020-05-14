@@ -1,0 +1,3 @@
+[submodule "stereo-pairs-polar-patterns"]
+	path = stereo-pairs-polar-patterns
+	url = https://github.com/grammaton/stereo-pairs-polar-patterns.git
