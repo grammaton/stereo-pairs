@@ -1,6 +1,6 @@
 ### 2009
 
-_Recorded @ Connservatorio Santa Cecilia. Rome._
+_Recorded @ Conservatorio Santa Cecilia. Rome._
 
 Recording Sessions:
 1. Session ONE:
@@ -17,7 +17,7 @@ Recording Sessions:
 
 ### 2014
 
-_Recorded @ Connservatorio Santa Cecilia. Rome._
+_Recorded @ Conservatorio Santa Cecilia. Rome._
 
 Recording Sessions:
 
