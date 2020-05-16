@@ -1,31 +1,32 @@
-### 2009
+# README
+
+## 2009
+
+_Recorded @ Conservatorio Santa Cecilia. Rome. 15/04/2009_
+
+#### Recording session ONE:
+
+* AB
+* Blumlein
+* Head
+* XY90
+
+#### Recording session TWO:
+
+* Decca Tree
+* ORTF
+* Mid-Side
+
+## 2014
 
 _Recorded @ Conservatorio Santa Cecilia. Rome._
 
-Recording Sessions:
-1. Session ONE:
-  - AB
-  - Blumlein
-  - Head
-  - XY90
-2. Session TWO:
-  - Decca Tree
-  - ORTF
-  - Mid-Side
+* AB
+* Blumlein
+* Decca Tree
+* Mid-Side
+* ORTF
+* OSS
+* Tetrahedral
+* XY90
 
-<iframe width="480" src="https://www.youtube.com/embed/k8-sse-1QCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### 2014
-
-_Recorded @ Conservatorio Santa Cecilia. Rome._
-
-Recording Sessions:
-
-- AB
-- Blumlein
-- Decca Tree
-- Mid-Side
-- ORTF
-- OSS
-- Tetrahedral
-- XY90
