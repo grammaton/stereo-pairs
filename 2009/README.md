@@ -11,6 +11,11 @@ description: Recorded @ Conservatorio Santa Cecilia. Rome. 15/04/2009
 * Head
 * XY90
 
+<audio controls>
+  <source src="2009/FLAC/session-one/2009-a01-AB.flac" type="audio/flac">
+Your browser does not support the audio element.
+</audio>
+
 ![](https://raw.githubusercontent.com/grammaton/stereo-pairs/master/2009/photos/2009-04-15-DSC_6722.jpg)
 ![](https://raw.githubusercontent.com/grammaton/stereo-pairs/master/2009/photos/2009-04-15-DSC_6724.jpg)
 ![](https://raw.githubusercontent.com/grammaton/stereo-pairs/master/2009/photos/2009-04-15-DSC_6727.jpg)
